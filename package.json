@@ -1,0 +1,25 @@
+{
+  "name": "burger-hw-ucsd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaxin1996/burger-hw-ucsd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaxin1996/burger-hw-ucsd/issues"
+  },
+  "homepage": "https://github.com/Jaxin1996/burger-hw-ucsd#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10"
+  }
+}
